@@ -201,7 +201,68 @@ print("\nCleaned dataset saved as IPL_Matches_Cleaned.csv")
 
 <img width="690" height="468" alt="image" src="https://github.com/user-attachments/assets/df3cd579-00b6-426f-9ddc-f39dfaf63d2e" />
 
-  
+
+### Unique Identifier:
+
+<img width="427" height="96" alt="image" src="https://github.com/user-attachments/assets/dfe132c9-dbab-41ea-aced-c28593dd50af" />
+
+
+### Data Cleaning:
+
+<img width="657" height="280" alt="image" src="https://github.com/user-attachments/assets/1cf3a32f-ab97-44ab-86b0-17de36ab9deb" />
+
+
+### Season Analysis:
+
+<img width="526" height="447" alt="image" src="https://github.com/user-attachments/assets/e0d8db35-5375-4534-8754-39115d63506a" />
+
+
+### Team Performance: 
+
+<img width="561" height="187" alt="image" src="https://github.com/user-attachments/assets/6fdd3148-a058-4ac6-aeca-2292a33a2001" />
+
+
+### Team Analysis:
+
+<img width="785" height="507" alt="image" src="https://github.com/user-attachments/assets/ae096ce0-4cff-49a6-8efe-e6c89d476df2" />
+
+
+### Toss Anaysis:
+
+<img width="652" height="262" alt="image" src="https://github.com/user-attachments/assets/1e62e82a-5e47-4bb0-9d5a-fc49c867946c" />
+
+### Season-wise Toss Analysis:
+
+<img width="722" height="813" alt="image" src="https://github.com/user-attachments/assets/2cd64406-5494-48bc-86bc-73fc5e1e60ad" />
+
+### Venue Analysis:
+
+<img width="621" height="191" alt="image" src="https://github.com/user-attachments/assets/d727a9b5-6935-44f0-b415-4afb9ff1ca06" />
+
+### Winning Margin Analysis:
+
+<img width="1107" height="466" alt="image" src="https://github.com/user-attachments/assets/8eb5b961-292e-4fd9-b7f0-d70c8c2d49dd" />
+
+
+### Match Analysis:
+
+<img width="567" height="173" alt="image" src="https://github.com/user-attachments/assets/74dc3b77-9a42-4dba-a168-5d508cdbca37" />
+
+
+### Datetime Conversion:
+
+<img width="572" height="85" alt="image" src="https://github.com/user-attachments/assets/5cfbd245-d5a0-4252-8e7e-f1849ef2ae8c" />
+
+
+### Year Extraction:
+
+<img width="555" height="258" alt="image" src="https://github.com/user-attachments/assets/3d139875-ad61-445b-af63-74766859e240" />
+
+### Column Creation:
+
+<img width="558" height="263" alt="image" src="https://github.com/user-attachments/assets/fa5a06c3-6ab4-4fdd-8abd-0e6387a831d0" />
+
+<img width="822" height="48" alt="image" src="https://github.com/user-attachments/assets/8627863a-a270-43f2-a2f8-5eca9630b244" />
 
  ## Result
   This experiment is executed successfully.
